@@ -19,7 +19,7 @@ const NoteDetail = () => {
         <button  className="btn btn-primary">Редактирование</button >
       </Link>
       <Link href="/" passHref>
-          <button className="btn btn-secondary ml-5">На главную</button>
+          <button className="btn btn-secondary ms-1">На главную</button>
         </Link>
     </div>
   );

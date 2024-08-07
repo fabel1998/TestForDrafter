@@ -44,7 +44,7 @@ const CreateNote = () => {
         </div>
         <button type="submit" className="btn btn-primary">Создать заметку</button>
         <Link href="/" passHref>
-          <button className="btn btn-secondary ml-2">На главную</button>
+          <button className="btn btn-secondary ms-1">На главную</button>
         </Link>
       </form>
     </div>

@@ -53,7 +53,7 @@ const EditNote = () => {
         </div>
         <button type="submit" className="btn btn-primary">Обновить</button>
         <Link href="/" passHref>
-          <button className="btn btn-secondary ml-2">На главную</button>
+          <button className="btn btn-secondary ms-1">На главную</button>
         </Link>
       </form>
     </div>
